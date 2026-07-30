@@ -1,0 +1,270 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-07-30",
+  "snapshots": {
+    "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772192_59829fcd8809e50ebb2d1f0fafe368d2.pdf": {
+      "refId": "anpuh-1968",
+      "archiveUrl": "https://web.archive.org/web/20240715015500/https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772192_59829fcd8809e50ebb2d1f0fafe368d2.pdf",
+      "timestamp": "20240715015500",
+      "checkedAt": "2026-07-30"
+    },
+    "https://domantonio.fsspx.com.br/dom-antonio-de-castro-mayer/": {
+      "refId": "fsspx-mayer",
+      "archiveUrl": "https://web.archive.org/web/20260714034726/https://domantonio.fsspx.com.br/dom-antonio-de-castro-mayer/",
+      "timestamp": "20260714034726",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/American_Society_for_the_Defense_of_Tradition,_Family_and_Property": {
+      "refId": "wikipedia-en-americantfp",
+      "archiveUrl": "https://web.archive.org/web/20260728111653/https://en.wikipedia.org/wiki/American_Society_for_the_Defense_of_Tradition,_Family_and_Property",
+      "timestamp": "20260728111653",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Ant%C3%B4nio_de_Castro_Mayer": {
+      "refId": "wikipedia-en-mayer",
+      "archiveUrl": "https://web.archive.org/web/20260702144704/https://en.wikipedia.org/wiki/Ant%C3%B4nio_de_Castro_Mayer",
+      "timestamp": "20260702144704",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Centro_Dom_Bosco": {
+      "refId": "wikipedia-en-cdb",
+      "archiveUrl": "https://web.archive.org/web/20260701215451/https://en.wikipedia.org/wiki/Centro_Dom_Bosco",
+      "timestamp": "20260701215451",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Geraldo_de_Proen%C3%A7a_Sigaud": {
+      "refId": "wikipedia-en-sigaud",
+      "archiveUrl": "https://web.archive.org/web/20260603001713/https://en.wikipedia.org/wiki/Geraldo_de_Proen%C3%A7a_Sigaud",
+      "timestamp": "20260603001713",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Plinio_Corr%C3%AAa_de_Oliveira": {
+      "refId": "wikipedia-en-plinio",
+      "archiveUrl": "https://web.archive.org/web/20260711222251/https://en.wikipedia.org/wiki/Plinio_Corr%C3%AAa_de_Oliveira",
+      "timestamp": "20260711222251",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Plinio_Corr%C3%AAa_de_Oliveira_Institute": {
+      "refId": "wikipedia-en-ipco",
+      "archiveUrl": "https://web.archive.org/web/20260310154409/https://en.wikipedia.org/wiki/Plinio_Corr%C3%AAa_de_Oliveira_Institute",
+      "timestamp": "20260310154409",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Tradition,_Family_and_Property": {
+      "refId": "wikipedia-en-tfp",
+      "archiveUrl": "https://web.archive.org/web/20260611201544/https://en.wikipedia.org/wiki/Tradition,_Family_and_Property",
+      "timestamp": "20260611201544",
+      "checkedAt": "2026-07-30"
+    },
+    "https://fr.wikipedia.org/wiki/Tradition,_famille_et_propri%C3%A9t%C3%A9": {
+      "refId": "wikipedia-fr-tfp",
+      "archiveUrl": "https://web.archive.org/web/20260423015856/https://fr.wikipedia.org/wiki/Tradition,_famille_et_propri%C3%A9t%C3%A9",
+      "timestamp": "20260423015856",
+      "checkedAt": "2026-07-30"
+    },
+    "https://gaudiumpress.org/content/105712-ARAUTOS-DO-EVANGELHO-DECLARAM---ldquo-COMISSARIADO-INVALIDO-rdquo-/": {
+      "refId": "gaudium-comissariado",
+      "archiveUrl": "https://web.archive.org/web/20250116183618/https://gaudiumpress.org/content/105712-ARAUTOS-DO-EVANGELHO-DECLARAM---ldquo-COMISSARIADO-INVALIDO-rdquo-/",
+      "timestamp": "20250116183618",
+      "checkedAt": "2026-07-30"
+    },
+    "https://ipco.org.br/": {
+      "refId": "ipco-site",
+      "archiveUrl": "https://web.archive.org/web/20260718215833/https://ipco.org.br/",
+      "timestamp": "20260718215833",
+      "checkedAt": "2026-07-30"
+    },
+    "https://ipco.org.br/plinio-correa-de-oliveira-um-modelo-de-catolico-para-nossos-dias/": {
+      "refId": "ipco-modelo",
+      "archiveUrl": "https://web.archive.org/web/20251016074347/https://ipco.org.br/plinio-correa-de-oliveira-um-modelo-de-catolico-para-nossos-dias/",
+      "timestamp": "20251016074347",
+      "checkedAt": "2026-07-30"
+    },
+    "https://ipco.org.br/quem-somos/": {
+      "refId": "ipco-quemsomos",
+      "archiveUrl": "https://web.archive.org/web/20230208213244/https://ipco.org.br/quem-somos/",
+      "timestamp": "20230208213244",
+      "checkedAt": "2026-07-30"
+    },
+    "https://ipco.org.br/tradicao-familia-propriedade/": {
+      "refId": "ipco-tfp",
+      "archiveUrl": "https://web.archive.org/web/20251207024436/https://ipco.org.br/tradicao-familia-propriedade/",
+      "timestamp": "20251207024436",
+      "checkedAt": "2026-07-30"
+    },
+    "https://istfp.org/who-we-are/nationalregional-tfp-societies-and-groups/": {
+      "refId": "istfp-network",
+      "archiveUrl": "https://web.archive.org/web/20260519222220/https://istfp.org/who-we-are/nationalregional-tfp-societies-and-groups/",
+      "timestamp": "20260519222220",
+      "checkedAt": "2026-07-30"
+    },
+    "https://larouchepub.com/eiw/public/1984/eirv11n46-19841127/eirv11n46-19841127_038-oligarchys_tfp_cult_banned_in_ve.pdf": {
+      "refId": "eir-1984",
+      "archiveUrl": "https://web.archive.org/web/20241007065555/https://larouchepub.com/eiw/public/1984/eirv11n46-19841127/eirv11n46-19841127_038-oligarchys_tfp_cult_banned_in_ve.pdf",
+      "timestamp": "20241007065555",
+      "checkedAt": "2026-07-30"
+    },
+    "https://periodicos.uem.br/ojs/index.php/RbhrAnpuh/article/view/22629": {
+      "refId": "caldeira-rbhr",
+      "archiveUrl": "https://web.archive.org/web/20170723031437/http://periodicos.uem.br:80/ojs/index.php/RbhrAnpuh/article/view/22629",
+      "timestamp": "20170723031437",
+      "checkedAt": "2026-07-30"
+    },
+    "https://pt.wikipedia.org/wiki/Adolpho_Lindenberg_(engenheiro)": {
+      "refId": "wikipedia-pt-lindenberg",
+      "archiveUrl": "https://web.archive.org/web/20251112144738/https://pt.wikipedia.org/wiki/Adolpho_Lindenberg_(engenheiro)",
+      "timestamp": "20251112144738",
+      "checkedAt": "2026-07-30"
+    },
+    "https://pt.wikipedia.org/wiki/Arautos_do_Evangelho": {
+      "refId": "wikipedia-pt-arautos",
+      "archiveUrl": "https://web.archive.org/web/20260107153814/https://pt.wikipedia.org/wiki/Arautos_do_Evangelho",
+      "timestamp": "20260107153814",
+      "checkedAt": "2026-07-30"
+    },
+    "https://pt.wikipedia.org/wiki/Tradi%C3%A7%C3%A3o,_Fam%C3%ADlia_e_Propriedade": {
+      "refId": "wikipedia-pt-tfp",
+      "archiveUrl": "https://web.archive.org/web/20251113045345/https://pt.wikipedia.org/wiki/Tradi%C3%A7%C3%A3o,_Fam%C3%ADlia_e_Propriedade",
+      "timestamp": "20251113045345",
+      "checkedAt": "2026-07-30"
+    },
+    "https://reb.itf.edu.br/reb/article/view/1033": {
+      "refId": "reb-coetus",
+      "archiveUrl": "https://web.archive.org/web/20251224102246/https://reb.itf.edu.br/reb/article/view/1033",
+      "timestamp": "20251224102246",
+      "checkedAt": "2026-07-30"
+    },
+    "https://repositorio.ufsc.br/xmlui/handle/123456789/89747": {
+      "refId": "zanotto-tese",
+      "archiveUrl": "https://web.archive.org/web/20250722145358/https://repositorio.ufsc.br/xmlui/handle/123456789/89747",
+      "timestamp": "20250722145358",
+      "checkedAt": "2026-07-30"
+    },
+    "https://tfpstudentaction.org/authors/luis-sergio-solimeo": {
+      "refId": "tfpsa-solimeo",
+      "archiveUrl": "https://web.archive.org/web/20260125024251/https://tfpstudentaction.org/authors/luis-sergio-solimeo",
+      "timestamp": "20260125024251",
+      "checkedAt": "2026-07-30"
+    },
+    "https://tfpstudentactioneurope.org/tfp-a-dangerous-sect-a-response-to-slanders-circulating-on-the-internet": {
+      "refId": "tfpsae-reply",
+      "archiveUrl": "https://web.archive.org/web/20260511083848/https://tfpstudentactioneurope.org/tfp-a-dangerous-sect-a-response-to-slanders-circulating-on-the-internet",
+      "timestamp": "20260511083848",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.americamagazine.org/faith/2019/10/01/pope-francis-appoints-brazilian-cardinal-watch-over-heralds-gospel/": {
+      "refId": "america-heralds",
+      "archiveUrl": "https://web.archive.org/web/20250810003808/https://www.americamagazine.org/faith/2019/10/01/pope-francis-appoints-brazilian-cardinal-watch-over-heralds-gospel/",
+      "timestamp": "20250810003808",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.camara.leg.br/deputados/4634/biografia": {
+      "refId": "camara-biografia",
+      "archiveUrl": "https://web.archive.org/web/20241202031256/https://www.camara.leg.br/deputados/4634/biografia",
+      "timestamp": "20241202031256",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.cambridge.org/core/journals/journal-of-inter-american-studies/article/abs/reforma-agraria-questao-de-consciencia-by-svd-dom-geraldo-de-proenca-sigaud-dom-antonio-de-castro-mayer-plinio-correa-de-oliveira-and-luiz-mendonca-de-freitas-4a-edicao-sao-paulo-editora-vera-cruz-1962-pp-496/5D42A5CF65C920D76DDFD60E922E8314": {
+      "refId": "cambridge-raqc",
+      "archiveUrl": "https://web.archive.org/web/20250429201111/https://www.cambridge.org/core/journals/journal-of-inter-american-studies/article/abs/reforma-agraria-questao-de-consciencia-by-svd-dom-geraldo-de-proenca-sigaud-dom-antonio-de-castro-mayer-plinio-correa-de-oliveira-and-luiz-mendonca-de-freitas-4a-edicao-sao-paulo-editora-vera-cruz-1962-pp-496/5D42A5CF65C920D76DDFD60E922E8314",
+      "timestamp": "20250429201111",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.cartacapital.com.br/sociedade/nossa-senhora-quer-como-o-lider-dos-arautos-induzia-jovens-a-conseguir-dinheiro/": {
+      "refId": "cartacapital-arautos",
+      "archiveUrl": "https://web.archive.org/web/20241204022516/https://www.cartacapital.com.br/sociedade/nossa-senhora-quer-como-o-lider-dos-arautos-induzia-jovens-a-conseguir-dinheiro/",
+      "timestamp": "20241204022516",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.conjur.com.br/2013-mar-11/disputa-controle-tfp-decidida-supremo/": {
+      "refId": "conjur-tfp",
+      "archiveUrl": "https://web.archive.org/web/20250503065408/https://www.conjur.com.br/2013-mar-11/disputa-controle-tfp-decidida-supremo/",
+      "timestamp": "20250503065408",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.epfweb.org/sites/default/files/2021-01/EPF%20TFP_EN_Oct30_0.pdf": {
+      "refId": "epf-report",
+      "archiveUrl": "https://web.archive.org/web/20250723005539/https://www.epfweb.org/sites/default/files/2021-01/EPF%20TFP_EN_Oct30_0.pdf",
+      "timestamp": "20250723005539",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.gemppi.org/sectes-et-mouvances/les-sectes-en-france-1995-rapport-parlementaire-n-2468/": {
+      "refId": "gemppi-rapport",
+      "archiveUrl": "https://web.archive.org/web/20260416045834/https://www.gemppi.org/sectes-et-mouvances/les-sectes-en-france-1995-rapport-parlementaire-n-2468/",
+      "timestamp": "20260416045834",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.migalhas.com.br/quentes/152655/fundadores-da-tfp-perdem-o-comando-da-entidade": {
+      "refId": "migalhas-tfp",
+      "archiveUrl": "https://web.archive.org/web/20260521114559/https://www.migalhas.com.br/quentes/152655/fundadores-da-tfp-perdem-o-comando-da-entidade",
+      "timestamp": "20260521114559",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.ncronline.org/news/accountability/vatican-wants-boarding-schools-run-heralds-gospel-be-closed": {
+      "refId": "ncr-schools",
+      "archiveUrl": "https://web.archive.org/web/20251014080812/https://www.ncronline.org/news/accountability/vatican-wants-boarding-schools-run-heralds-gospel-be-closed",
+      "timestamp": "20251014080812",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.opendemocracy.net/en/5050/ultra-conservative-institute-has-infiltrated-polish-state-to-ban-abortion/": {
+      "refId": "opendemocracy-skarga",
+      "archiveUrl": "https://web.archive.org/web/20260128174219/https://www.opendemocracy.net/en/5050/ultra-conservative-institute-has-infiltrated-polish-state-to-ban-abortion/",
+      "timestamp": "20260128174219",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.pliniocorreadeoliveira.info/ED_0000Indice.htm": {
+      "refId": "plinio-info-edac",
+      "archiveUrl": "https://web.archive.org/web/20260220051527/https://www.pliniocorreadeoliveira.info/ED_0000Indice.htm",
+      "timestamp": "20260220051527",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.pliniocorreadeoliveira.info/Gesta_020201.htm": {
+      "refId": "plinio-info-gesta",
+      "archiveUrl": "https://web.archive.org/web/20250226140614/https://www.pliniocorreadeoliveira.info/Gesta_020201.htm",
+      "timestamp": "20250226140614",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.pliniocorreadeoliveira.info/MNF_850423_nota_cnbb.htm": {
+      "refId": "plinio-info-cnbb",
+      "archiveUrl": "https://web.archive.org/web/20260422233655/https://www.pliniocorreadeoliveira.info/MNF_850423_nota_cnbb.htm",
+      "timestamp": "20260422233655",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.pliniocorreadeoliveira.info/Minha_Vida_publica/MVP_12_Fundacao_da_TFP_atividades_decada_60.htm": {
+      "refId": "plinio-info-vida",
+      "archiveUrl": "https://web.archive.org/web/20251210202355/https://www.pliniocorreadeoliveira.info/Minha_Vida_publica/MVP_12_Fundacao_da_TFP_atividades_decada_60.htm",
+      "timestamp": "20251210202355",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.pliniocorreadeoliveira.info/livros/1960%20-%20ReformaAgrariaQuestConci%C3%AAncia.pdf": {
+      "refId": "plinio-info-raqc",
+      "archiveUrl": "https://web.archive.org/web/20260220051540/https://www.pliniocorreadeoliveira.info/livros/1960%20-%20ReformaAgrariaQuestConci%C3%AAncia.pdf",
+      "timestamp": "20260220051540",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.terra.com.br/noticias/brasil/cidades/morre-aos-99-anos-o-engenheiro-e-arquiteto-adolpho-lindenberg-icone-do-mercado-imobiliario-paulista,b90b1d25769b6915b4f56ee7bd9acfa0y0dd98oc.html": {
+      "refId": "terra-lindenberg",
+      "archiveUrl": "https://web.archive.org/web/20250823141024/https://www.terra.com.br/noticias/brasil/cidades/morre-aos-99-anos-o-engenheiro-e-arquiteto-adolpho-lindenberg-icone-do-mercado-imobiliario-paulista,b90b1d25769b6915b4f56ee7bd9acfa0y0dd98oc.html",
+      "timestamp": "20250823141024",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.tfp.org/ref/NCBB-BrazilianTFP.pdf": {
+      "refId": "tfp-reply-pdf",
+      "archiveUrl": "https://web.archive.org/web/20251231133129/https://www.tfp.org/ref/NCBB-BrazilianTFP.pdf",
+      "timestamp": "20251231133129",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.vaticannews.va/en/vatican-city/news/2019-09/pope-approves-commissioner-heralds-gospel.html": {
+      "refId": "vaticannews-commissioner",
+      "archiveUrl": "https://web.archive.org/web/20260415043657/https://www.vaticannews.va/en/vatican-city/news/2019-09/pope-approves-commissioner-heralds-gospel.html",
+      "timestamp": "20260415043657",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/sociedade-brasileira-de-defesa-da-tradicao-familia-e-propriedade": {
+      "refId": "cpdoc-tfp",
+      "archiveUrl": "https://web.archive.org/web/20250527031324/https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/sociedade-brasileira-de-defesa-da-tradicao-familia-e-propriedade",
+      "timestamp": "20250527031324",
+      "checkedAt": "2026-07-30"
+    }
+  }
+}
