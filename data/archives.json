@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-08-03",
   "snapshots": {
     "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772192_59829fcd8809e50ebb2d1f0fafe368d2.pdf": {
       "refId": "anpuh-1968",
@@ -140,6 +140,12 @@
       "timestamp": "20250722145358",
       "checkedAt": "2026-07-30"
     },
+    "https://scielo.br/scielo.php?pid=S0101-90742010000200011&script=sci_arttext": {
+      "refId": "zanotto-scielo",
+      "archiveUrl": "https://web.archive.org/web/20260802143500/http://www.scielo.br/",
+      "timestamp": "20260802143500",
+      "checkedAt": "2026-08-03"
+    },
     "https://tfpstudentaction.org/authors/luis-sergio-solimeo": {
       "refId": "tfpsa-solimeo",
       "archiveUrl": "https://web.archive.org/web/20260125024251/https://tfpstudentaction.org/authors/luis-sergio-solimeo",
@@ -157,6 +163,12 @@
       "archiveUrl": "https://web.archive.org/web/20250810003808/https://www.americamagazine.org/faith/2019/10/01/pope-francis-appoints-brazilian-cardinal-watch-over-heralds-gospel/",
       "timestamp": "20250810003808",
       "checkedAt": "2026-07-30"
+    },
+    "https://www.arautos.org/noticias/22-de-fevereiro-ha-13-anos-atras-beato-joao-paulo-ii-aprovava-e-reconhecia-os-arautos-do-evangelho-132788": {
+      "refId": "arautos-aprovacao",
+      "archiveUrl": "https://web.archive.org/web/20260803101025/https://www.arautos.org/noticias/22-de-fevereiro-ha-13-anos-atras-beato-joao-paulo-ii-aprovava-e-reconhecia-os-arautos-do-evangelho-132788",
+      "timestamp": "20260803101025",
+      "checkedAt": "2026-08-03"
     },
     "https://www.camara.leg.br/deputados/4634/biografia": {
       "refId": "camara-biografia",
