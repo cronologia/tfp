@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
   "snapshots": {
     "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772192_59829fcd8809e50ebb2d1f0fafe368d2.pdf": {
       "refId": "anpuh-1968",
@@ -104,6 +104,12 @@
       "timestamp": "20241007065555",
       "checkedAt": "2026-07-30"
     },
+    "https://nuntiatoria.org/2026/04/13/the-return-of-orders-heralds-of-the-gospel-roman-authority-and-the-resolution-of-a-seven-year-suspension/": {
+      "refId": "nuntiatoria-2026",
+      "archiveUrl": "https://web.archive.org/web/20260803101105/https://nuntiatoria.org/2026/04/13/the-return-of-orders-heralds-of-the-gospel-roman-authority-and-the-resolution-of-a-seven-year-suspension/",
+      "timestamp": "20260803101105",
+      "checkedAt": "2026-08-10"
+    },
     "https://periodicos.uem.br/ojs/index.php/RbhrAnpuh/article/view/22629": {
       "refId": "caldeira-rbhr",
       "archiveUrl": "https://web.archive.org/web/20170723031437/http://periodicos.uem.br:80/ojs/index.php/RbhrAnpuh/article/view/22629",
@@ -145,6 +151,12 @@
       "archiveUrl": "https://web.archive.org/web/20260802143500/http://www.scielo.br/",
       "timestamp": "20260802143500",
       "checkedAt": "2026-08-03"
+    },
+    "https://stj.jusbrasil.com.br/noticias/3069404/grupo-de-fundadores-perde-a-batalha-pelo-comando-da-tfp": {
+      "refId": "stj-jusbrasil",
+      "archiveUrl": "https://web.archive.org/web/20260810080935/https://www.jusbrasil.com.br/noticias/grupo-de-fundadores-perde-a-batalha-pelo-comando-da-tfp/3069404",
+      "timestamp": "20260810080935",
+      "checkedAt": "2026-08-10"
     },
     "https://tfpstudentaction.org/authors/luis-sergio-solimeo": {
       "refId": "tfpsa-solimeo",
