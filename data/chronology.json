@@ -708,162 +708,176 @@
       "id": "camara-biografia",
       "title": "Biografia do Deputado Federal Plinio Correia de Oliveira",
       "url": "https://www.camara.leg.br/deputados/4634/biografia",
-      "publisher": "Câmara dos Deputados (primary)",
-      "type": "primary"
+      "publisher": "Câmara dos Deputados",
+      "type": "official",
+      "publisherNote": "primary institutional record"
     },
     {
       "id": "ipco-site",
       "title": "Instituto Plinio Corrêa de Oliveira",
       "url": "https://ipco.org.br/",
-      "publisher": "IPCO (sympathetic source)",
-      "type": "movement"
+      "publisher": "IPCO",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "ipco-quemsomos",
       "title": "IPCO — Quem somos",
       "url": "https://ipco.org.br/quem-somos/",
-      "publisher": "IPCO (sympathetic source)",
-      "type": "movement"
+      "publisher": "IPCO",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "ipco-tfp",
       "title": "IPCO — Tradição, Família e Propriedade",
       "url": "https://ipco.org.br/tradicao-familia-propriedade/",
-      "publisher": "IPCO (sympathetic source)",
-      "type": "movement"
+      "publisher": "IPCO",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "ipco-modelo",
       "title": "Plinio Corrêa de Oliveira, um modelo de católico (IPCO)",
       "url": "https://ipco.org.br/plinio-correa-de-oliveira-um-modelo-de-catolico-para-nossos-dias/",
-      "publisher": "IPCO (sympathetic source)",
-      "type": "movement"
+      "publisher": "IPCO",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "plinio-info-vida",
       "title": "Minha Vida Pública — Fundação da TFP e atividades da década de 60",
       "url": "https://www.pliniocorreadeoliveira.info/Minha_Vida_publica/MVP_12_Fundacao_da_TFP_atividades_decada_60.htm",
-      "publisher": "pliniocorreadeoliveira.info (movement documentary archive)",
-      "type": "movement"
+      "publisher": "pliniocorreadeoliveira.info",
+      "type": "archive",
+      "publisherNote": "movement documentary archive"
     },
     {
       "id": "plinio-info-edac",
       "title": "Em Defesa da Ação Católica — full text",
       "url": "https://www.pliniocorreadeoliveira.info/ED_0000Indice.htm",
-      "publisher": "pliniocorreadeoliveira.info (movement documentary archive)",
-      "type": "movement"
+      "publisher": "pliniocorreadeoliveira.info",
+      "type": "archive",
+      "publisherNote": "movement documentary archive"
     },
     {
       "id": "plinio-info-raqc",
       "title": "Reforma Agrária: Questão de Consciência — facsimile PDF",
       "url": "https://www.pliniocorreadeoliveira.info/livros/1960%20-%20ReformaAgrariaQuestConci%C3%AAncia.pdf",
-      "publisher": "pliniocorreadeoliveira.info (movement documentary archive)",
-      "type": "movement"
+      "publisher": "pliniocorreadeoliveira.info",
+      "type": "archive",
+      "publisherNote": "movement documentary archive"
     },
     {
       "id": "plinio-info-gesta",
       "title": "The 1968 petition — movement account with signature numbers",
       "url": "https://www.pliniocorreadeoliveira.info/Gesta_020201.htm",
-      "publisher": "pliniocorreadeoliveira.info (movement documentary archive)",
-      "type": "movement"
+      "publisher": "pliniocorreadeoliveira.info",
+      "type": "archive",
+      "publisherNote": "movement documentary archive"
     },
     {
       "id": "plinio-info-cnbb",
       "title": "The TFP's reply to the April 1985 CNBB note (carries the note's text)",
       "url": "https://www.pliniocorreadeoliveira.info/MNF_850423_nota_cnbb.htm",
-      "publisher": "pliniocorreadeoliveira.info (movement source — CNBB original pending)",
-      "type": "movement"
+      "publisher": "pliniocorreadeoliveira.info",
+      "type": "archive",
+      "publisherNote": "movement source — CNBB original pending"
     },
     {
       "id": "tfp-reply-pdf",
       "title": "The American TFP's response to the Brazilian bishops (PDF)",
       "url": "https://www.tfp.org/ref/NCBB-BrazilianTFP.pdf",
-      "publisher": "tfp.org (sympathetic source)",
-      "type": "movement"
+      "publisher": "tfp.org",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "cambridge-raqc",
       "title": "Review of 'Reforma Agrária: Questão de Consciência' (Journal of Inter-American Studies)",
       "url": "https://www.cambridge.org/core/journals/journal-of-inter-american-studies/article/abs/reforma-agraria-questao-de-consciencia-by-svd-dom-geraldo-de-proenca-sigaud-dom-antonio-de-castro-mayer-plinio-correa-de-oliveira-and-luiz-mendonca-de-freitas-4a-edicao-sao-paulo-editora-vera-cruz-1962-pp-496/5D42A5CF65C920D76DDFD60E922E8314",
-      "publisher": "Cambridge University Press (academic)",
+      "publisher": "Cambridge University Press",
       "type": "academic"
     },
     {
       "id": "reb-coetus",
       "title": "Study on Sigaud and the Coetus Internationalis Patrum (REB)",
       "url": "https://reb.itf.edu.br/reb/article/view/1033",
-      "publisher": "Revista Eclesiástica Brasileira (academic)",
+      "publisher": "Revista Eclesiástica Brasileira",
       "type": "academic"
     },
     {
       "id": "anpuh-1968",
       "title": "Academic analysis of the 1968 TFP petition (ANPUH)",
       "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772192_59829fcd8809e50ebb2d1f0fafe368d2.pdf",
-      "publisher": "ANPUH (academic)",
+      "publisher": "ANPUH",
       "type": "academic"
     },
     {
       "id": "zanotto-tese",
       "title": "Gizele Zanotto — doctoral thesis on the TFP (UFSC 2007)",
       "url": "https://repositorio.ufsc.br/xmlui/handle/123456789/89747",
-      "publisher": "UFSC repository (academic)",
+      "publisher": "UFSC repository",
       "type": "academic"
     },
     {
       "id": "zanotto-scielo",
       "title": "Zanotto — 'A TFP enquanto instituição total' (SciELO)",
       "url": "https://scielo.br/scielo.php?pid=S0101-90742010000200011&script=sci_arttext",
-      "publisher": "SciELO (academic)",
+      "publisher": "SciELO",
       "type": "academic"
     },
     {
       "id": "caldeira-rbhr",
       "title": "Rodrigo Coppe Caldeira — study on Plinio's Catholic Action polemic (RBHR)",
       "url": "https://periodicos.uem.br/ojs/index.php/RbhrAnpuh/article/view/22629",
-      "publisher": "RBHR/UEM (academic)",
+      "publisher": "RBHR/UEM",
       "type": "academic"
     },
     {
       "id": "cpdoc-tfp",
       "title": "CPDOC-FGV — verbete: Sociedade Brasileira de Defesa da TFP",
       "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/sociedade-brasileira-de-defesa-da-tradicao-familia-e-propriedade",
-      "publisher": "CPDOC-FGV (academic)",
+      "publisher": "CPDOC-FGV",
       "type": "academic"
     },
     {
       "id": "conjur-tfp",
       "title": "Disputa pelo controle da TFP decidida no Supremo (Conjur, 2013)",
       "url": "https://www.conjur.com.br/2013-mar-11/disputa-controle-tfp-decidida-supremo/",
-      "publisher": "Conjur (legal press)",
-      "type": "news"
+      "publisher": "Conjur",
+      "type": "news",
+      "publisherNote": "legal press"
     },
     {
       "id": "stj-jusbrasil",
       "title": "Grupo de fundadores perde a batalha pelo comando da TFP (STJ)",
       "url": "https://stj.jusbrasil.com.br/noticias/3069404/grupo-de-fundadores-perde-a-batalha-pelo-comando-da-tfp",
-      "publisher": "STJ via Jusbrasil (legal)",
-      "type": "news"
+      "publisher": "STJ via Jusbrasil",
+      "type": "legal"
     },
     {
       "id": "migalhas-tfp",
       "title": "Fundadores da TFP perdem o comando da entidade (Migalhas)",
       "url": "https://www.migalhas.com.br/quentes/152655/fundadores-da-tfp-perdem-o-comando-da-entidade",
-      "publisher": "Migalhas (legal press)",
-      "type": "news"
+      "publisher": "Migalhas",
+      "type": "news",
+      "publisherNote": "legal press"
     },
     {
       "id": "arautos-aprovacao",
       "title": "22 de fevereiro — a aprovação pontifícia dos Arautos (arautos.org)",
       "url": "https://www.arautos.org/noticias/22-de-fevereiro-ha-13-anos-atras-beato-joao-paulo-ii-aprovava-e-reconhecia-os-arautos-do-evangelho-132788",
-      "publisher": "arautos.org (sympathetic source)",
-      "type": "movement"
+      "publisher": "arautos.org",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "vaticannews-commissioner",
       "title": "Pope approves commissioner for Heralds of the Gospel (Vatican News, 2019)",
       "url": "https://www.vaticannews.va/en/vatican-city/news/2019-09/pope-approves-commissioner-heralds-gospel.html",
       "publisher": "Vatican News",
-      "type": "official-site"
+      "type": "news"
     },
     {
       "id": "america-heralds",
@@ -876,15 +890,17 @@
       "id": "gaudium-comissariado",
       "title": "Arautos declaram 'comissariado inválido' (Gaudium Press)",
       "url": "https://gaudiumpress.org/content/105712-ARAUTOS-DO-EVANGELHO-DECLARAM---ldquo-COMISSARIADO-INVALIDO-rdquo-/",
-      "publisher": "Gaudium Press (linked to the Heralds — sympathetic)",
-      "type": "movement"
+      "publisher": "Gaudium Press",
+      "type": "news",
+      "publisherNote": "linked to the Heralds — sympathetic"
     },
     {
       "id": "cartacapital-arautos",
       "title": "'Nossa Senhora quer': como o líder dos Arautos induzia jovens a conseguir dinheiro (CartaCapital, 2019)",
       "url": "https://www.cartacapital.com.br/sociedade/nossa-senhora-quer-como-o-lider-dos-arautos-induzia-jovens-a-conseguir-dinheiro/",
-      "publisher": "CartaCapital (critical press — attributed)",
-      "type": "news"
+      "publisher": "CartaCapital",
+      "type": "news",
+      "publisherNote": "critical press — attributed"
     },
     {
       "id": "ncr-schools",
@@ -897,71 +913,80 @@
       "id": "nuntiatoria-2026",
       "title": "The return of orders: Heralds of the Gospel and the resolution of a seven-year suspension (2026 — single source, unverified)",
       "url": "https://nuntiatoria.org/2026/04/13/the-return-of-orders-heralds-of-the-gospel-roman-authority-and-the-resolution-of-a-seven-year-suspension/",
-      "publisher": "Nuntiatoria (single source — flagged)",
-      "type": "news"
+      "publisher": "Nuntiatoria",
+      "type": "news",
+      "publisherNote": "single source — flagged"
     },
     {
       "id": "istfp-network",
       "title": "National/regional TFP societies and groups (istfp.org)",
       "url": "https://istfp.org/who-we-are/nationalregional-tfp-societies-and-groups/",
-      "publisher": "istfp.org (movement source)",
-      "type": "movement"
+      "publisher": "istfp.org",
+      "type": "official",
+      "publisherNote": "movement source"
     },
     {
       "id": "epf-report",
       "title": "'Modern-Day Crusaders in Europe' — report on the TFP network (EPF)",
       "url": "https://www.epfweb.org/sites/default/files/2021-01/EPF%20TFP_EN_Oct30_0.pdf",
-      "publisher": "European Parliamentary Forum (hostile source — labeled)",
-      "type": "critical"
+      "publisher": "European Parliamentary Forum",
+      "type": "report",
+      "publisherNote": "hostile source — labeled"
     },
     {
       "id": "opendemocracy-skarga",
       "title": "Ultra-conservative institute has infiltrated Polish state (openDemocracy)",
       "url": "https://www.opendemocracy.net/en/5050/ultra-conservative-institute-has-infiltrated-polish-state-to-ban-abortion/",
-      "publisher": "openDemocracy (critical press — attributed)",
-      "type": "critical"
+      "publisher": "openDemocracy",
+      "type": "news",
+      "publisherNote": "critical press — attributed"
     },
     {
       "id": "eir-1984",
       "title": "TFP banned in Venezuela (EIR, 1984 — hostile source, used with caution)",
       "url": "https://larouchepub.com/eiw/public/1984/eirv11n46-19841127/eirv11n46-19841127_038-oligarchys_tfp_cult_banned_in_ve.pdf",
-      "publisher": "EIR/LaRouche (hostile source — labeled)",
-      "type": "critical"
+      "publisher": "EIR/LaRouche",
+      "type": "news",
+      "publisherNote": "hostile source — labeled"
     },
     {
       "id": "gemppi-rapport",
       "title": "Les sectes en France — rapport parlementaire n°2468 (1995), list",
       "url": "https://www.gemppi.org/sectes-et-mouvances/les-sectes-en-france-1995-rapport-parlementaire-n-2468/",
-      "publisher": "GEMPPI (report mirror — report's methodology itself contested)",
-      "type": "critical"
+      "publisher": "GEMPPI",
+      "type": "report",
+      "publisherNote": "report mirror — report's methodology itself contested"
     },
     {
       "id": "tfpsae-reply",
       "title": "'TFP a dangerous sect?' — the movement's response to accusations",
       "url": "https://tfpstudentactioneurope.org/tfp-a-dangerous-sect-a-response-to-slanders-circulating-on-the-internet",
-      "publisher": "TFP Student Action Europe (sympathetic source)",
-      "type": "movement"
+      "publisher": "TFP Student Action Europe",
+      "type": "official",
+      "publisherNote": "sympathetic source"
     },
     {
       "id": "terra-lindenberg",
       "title": "Morre aos 99 anos Adolpho Lindenberg (Terra, 2024)",
       "url": "https://www.terra.com.br/noticias/brasil/cidades/morre-aos-99-anos-o-engenheiro-e-arquiteto-adolpho-lindenberg-icone-do-mercado-imobiliario-paulista,b90b1d25769b6915b4f56ee7bd9acfa0y0dd98oc.html",
-      "publisher": "Terra (news)",
+      "publisher": "Terra",
       "type": "news"
     },
     {
       "id": "tfpsa-solimeo",
       "title": "Luiz Sérgio Solimeo — author page (TFP Student Action)",
       "url": "https://tfpstudentaction.org/authors/luis-sergio-solimeo",
-      "publisher": "TFP Student Action (movement source)",
-      "type": "movement"
+      "publisher": "TFP Student Action",
+      "type": "official",
+      "publisherNote": "movement source"
     },
     {
       "id": "fsspx-mayer",
       "title": "Dom Antônio de Castro Mayer (FSSPX Brazil site — sympathetic to the SSPX)",
       "url": "https://domantonio.fsspx.com.br/dom-antonio-de-castro-mayer/",
-      "publisher": "fsspx.com.br (sympathetic to SSPX — labeled)",
-      "type": "movement"
+      "publisher": "fsspx.com.br",
+      "type": "web",
+      "publisherNote": "sympathetic to SSPX — labeled"
     }
   ]
 }
