@@ -4,6 +4,7 @@
     "subtitle": "Chronology of the Brazilian Society for the Defense of Tradition, Family and Property and of Plinio Corrêa de Oliveira (1908–present)",
     "description": "An open, source-referenced chronology of the TFP — Sociedade Brasileira de Defesa da Tradição, Família e Propriedade, founded in São Paulo on 26 July 1960 by the lay Catholic leader Plinio Corrêa de Oliveira — its campaigns, its international network, the 1985 CNBB note, the post-1995 succession dispute, and the two branches of today: the Heralds of the Gospel and the Instituto Plinio Corrêa de Oliveira.",
     "language": "en",
+    "layout": "river",
     "siteUrl": "https://cronologia.github.io/tfp/",
     "lastUpdated": "2026-07-19",
     "dataQualityNote": "Work-in-progress dataset on a religiously and politically contested subject. Four source families are labeled throughout: movement/sympathetic (IPCO, tfp.org, arautos.org), ecclesiastical (CNBB, Vatican), academic (Zanotto, Caldeira, CPDOC-FGV) and critical/press/ex-member accounts. Campaign numbers are the movement's own and are attributed; 'sect' accusations are presented as attributed accusations with the movement's replies; no accusation is asserted as fact. Corrections against primary sources are welcome."
